@@ -9,7 +9,7 @@ Las presentes Condiciones Generales regulan el uso (incluyendo el mero acceso) d
 
 ### DATOS PERSONALES QUE RECABAMOS Y CÓMO LO HACEMOS
 
-Leer  [Política de Privacidad](https://pastebin.com/Fvbg9gND)
+Leer  [Política de Privacidad](https://github.com/Streamus-ByPasser/Streamus-ByPasser/blob/main/Política_de_Privacidad.md)
 
 ### COMPROMISOS Y OBLIGACIONES DE LOS USUARIOS
 
